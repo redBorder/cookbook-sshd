@@ -1,6 +1,6 @@
-# Cookbook-example Cookbook
+# Sshd Cookbook
 
-cookbook to install and configure redborder cookbook-example
+Cookbook to install and configure redborder sshd
 
 ### Platforms
 
